@@ -1,2 +1,16 @@
-# School_District_Analysis
-Maria has asked you to create the same development environment that other analysts on the team have on their computers. This will ensure that the whole team is using the same software version and that there will not be any problems running different versions of Python or other software packages.
+# School District Analysis
+School District Analysis using `Anaconda`, `Jupyter Notebook`, `Pandas` &amp; `Python`
+
+## Overview of Project
+Here is the list of deliverables for the analysis of the school district: 
+
+* A high-level snapshot of the district's key metrics, presented in a table format
+* An overview of the key metrics for each school, presented in a table format
+* Tables presenting each of the following metrics:
+    * Top 5 and bottom 5 performing schools, based on the overall passing rate
+    * The average math score received by students in each grade level at each school
+    * The average reading score received by students in each grade level at each school
+    * School performance based on the budget per student
+    * School performance based on the school size 
+    * School performance based on the type of school
+Before we can begin these tasks, we need to import the datasets into Jupyter Notebook using Python.
