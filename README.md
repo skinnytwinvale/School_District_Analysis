@@ -18,7 +18,7 @@ Before we can begin these tasks, we need to import the datasets into Jupyter Not
 ## Resources
 
 * Data Source: `PyCitySchools.ipynb` file and rename it `PyCitySchools_Challenge_testing.ipynb`.
-* Software: Python 3.9, Visual Studio Code 1.50.0, Anaconda 4.8.5, Jupyter Notebook 6.1.4, Pandas
+* Software: Python 3.9, Visual Studio Code 1.50.0, Anaconda 4.8.5, Jupyter Notebook 6.1.4, Pandas 
 
 For more information, read the [`Documentation on Pandas DataFrame`](https://pandas.pydata.org/pandas-docs/stable/reference/frame.html). 
 
