@@ -41,7 +41,7 @@ The school board has notified Maria and her supervisor that the `students_comple
 
 ### Deliverable 1 Requirements:
 
-You will earn a perfect score for Deliverable 1 by completing all requirements below:
+You will earn a perfect score for Deliverable 1 by completing all requirements below: 
 
 * The `loc` method is used to select all the reading and math scores from the ninth grade at Thomas High School. Inside the `loc` method, the following are completed:
 
