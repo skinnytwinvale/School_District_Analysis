@@ -341,7 +341,7 @@ The analysis should contain the following:
 
     ![name-of-you-image](https://github.com/emmanuelmartinezs/School_District_Analysis/blob/main/Resources/ths%20s%20bin.PNG?raw=true)
 
-     **THS Before Cleanup on Spending Rank**   
+     **THS Before Cleanup on Spending Rank**    
 
     ![name-of-you-image](https://github.com/emmanuelmartinezs/School_District_Analysis/blob/main/Resources/ths%20s%20bf%20bin.PNG?raw=true)
 
